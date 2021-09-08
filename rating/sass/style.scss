@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.centrada {
+  height: 100vh;
+  align-items: center;
+}
+.color {
+  color: red;
+}
+.fa-star:hover,
+.fa-star:hover ~ div {
+  color: blue;
+}
+.color1 {
+  color: blue;
+}
